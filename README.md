@@ -1,3 +1,3 @@
 # New Project
 
-New project is available
+New project is available.
