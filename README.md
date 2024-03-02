@@ -1,3 +1,3 @@
-# New Project
+# Javascript project
 
-New project is available.
+In this github repo, I am going to add my all js projects.
